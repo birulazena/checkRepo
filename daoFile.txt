@@ -1,0 +1,9 @@
+emun Status {
+    CREATED, 
+    COMPLETE
+}
+
+public bool isValid(Strign status) {
+    if(status == COMPLETE)
+    return true;
+}
